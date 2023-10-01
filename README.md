@@ -1,6 +1,6 @@
 <h2> Hi! I'm Bhargava 👋 </h2>
-<h4> Software developer by profession! </h4>
-<h4> DevOps enthusiast, likes to develop applications using devops tools. </h4>
+<p> Software developer by profession! </p>
+<p> DevOps enthusiast, likes to develop applications using devops tools. </p>
 
 #### Domains
 - Cloud
